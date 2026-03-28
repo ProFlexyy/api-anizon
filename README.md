@@ -1,7 +1,7 @@
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/node.js-grey?logo=nodedotjs) ![GitHub stars](https://img.shields.io/github/stars/AnizonCore/HiAnime-api?logo=github)
-![GitHub forks](https://img.shields.io/github/forks/AnizonCore/HiAnime-api?logo=github)
+![Static Badge](https://img.shields.io/badge/node.js-grey?logo=nodedotjs) ![GitHub stars](https://img.shields.io/github/stars/AnizonCore/api-anizon?logo=github)
+![GitHub forks](https://img.shields.io/github/forks/AnizonCore/api-anizon?logo=github)
 ![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
 
 </div>
@@ -66,12 +66,12 @@ Make sure you have node installed on your device
 1. Run the following code to clone the repository and install all required dependencies
 
 ```bash
-$ git clone https://github.com/ProFlexyy/HiAnime-Api.git
+$ git clone https://github.com/ProFlexyy/api-anizon
 $ cd anime-api
 $ npm install
 ```
 
-2. Refer the [.env.example](https://github.com/ProFlexyy/HiAnime-Api/blob/main/.env.example) file to setup `.env` file
+2. Refer the [.env.example](https://github.com/ProFlexyy/api-anizon/blob/main/.env.example) file to setup `.env` file
 
 ```bash
 # Origins you want to allow
@@ -91,13 +91,13 @@ $ npm start #or npm run devStart
 
 Host your own instance of anime-api on vercel
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ProFlexyy/HiAnime-Api)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ProFlexyy/api-anizon)
 
 ### Render
 
 Host your own instance of anime-api on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ProFlexyy/HiAnime-Api)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ProFlexyy/api-anizon)
 
 > # Documentation
 
