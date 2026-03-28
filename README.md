@@ -1,7 +1,7 @@
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/node.js-grey?logo=nodedotjs) ![GitHub stars](https://img.shields.io/github/stars/AnizenCore/HiAnime-api?logo=github)
-![GitHub forks](https://img.shields.io/github/forks/AnizenCore/HiAnime-api?logo=github)
+![Static Badge](https://img.shields.io/badge/node.js-grey?logo=nodedotjs) ![GitHub stars](https://img.shields.io/github/stars/AnizonCore/HiAnime-api?logo=github)
+![GitHub forks](https://img.shields.io/github/forks/AnizonCore/HiAnime-api?logo=github)
 ![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
 
 </div>
@@ -24,7 +24,7 @@
 
 >
 
-<p align="center">RestFul API made with Node.js <br/>(Checkout this anime streaming website  <a href="https://Anizen.fun" target="_blank">Anizen</a> powered by this API)</p>
+<p align="center">RestFul API made with Node.js <br/>(Checkout this anime streaming website  <a href="https://Anizon.fun" target="_blank">Anizon</a> powered by this API)</p>
 
 > <h2> Table of Contents </h2>
 
@@ -1513,5 +1513,5 @@ If you discover any issues or have suggestions for improvement, please open an i
 >
 > If you like the project feel free to drop a star ✨. Your appreciation means a lot.
 
-<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/ProFlexyy" tarGET="_blank">Anizen 
+<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/ProFlexyy" tarGET="_blank">Anizon 
 </a>🫰</p>
