@@ -1,7 +1,7 @@
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/node.js-grey?logo=nodedotjs) ![GitHub stars](https://img.shields.io/github/stars/JustAnimeCore/HiAnime-api?logo=github)
-![GitHub forks](https://img.shields.io/github/forks/JustAnimeCore/HiAnime-api?logo=github)
+![Static Badge](https://img.shields.io/badge/node.js-grey?logo=nodedotjs) ![GitHub stars](https://img.shields.io/github/stars/AnizenCore/HiAnime-api?logo=github)
+![GitHub forks](https://img.shields.io/github/forks/AnizenCore/HiAnime-api?logo=github)
 ![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
 
 </div>
@@ -24,7 +24,7 @@
 
 >
 
-<p align="center">RestFul API made with Node.js <br/>(Checkout this anime streaming website  <a href="https://justanime.fun" target="_blank">JustAnime</a> powered by this API)</p>
+<p align="center">RestFul API made with Node.js <br/>(Checkout this anime streaming website  <a href="https://Anizen.fun" target="_blank">Anizen</a> powered by this API)</p>
 
 > <h2> Table of Contents </h2>
 
@@ -66,12 +66,12 @@ Make sure you have node installed on your device
 1. Run the following code to clone the repository and install all required dependencies
 
 ```bash
-$ git clone https://github.com/JustAnimeCore/HiAnime-Api.git
+$ git clone https://github.com/ProFlexyy/HiAnime-Api.git
 $ cd anime-api
 $ npm install
 ```
 
-2. Refer the [.env.example](https://github.com/JustAnimeCore/HiAnime-Api/blob/main/.env.example) file to setup `.env` file
+2. Refer the [.env.example](https://github.com/ProFlexyy/HiAnime-Api/blob/main/.env.example) file to setup `.env` file
 
 ```bash
 # Origins you want to allow
@@ -91,13 +91,13 @@ $ npm start #or npm run devStart
 
 Host your own instance of anime-api on vercel
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JustAnimeCore/HiAnime-Api)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ProFlexyy/HiAnime-Api)
 
 ### Render
 
 Host your own instance of anime-api on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/JustAnimeCore/HiAnime-Api)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ProFlexyy/HiAnime-Api)
 
 > # Documentation
 
@@ -1513,5 +1513,5 @@ If you discover any issues or have suggestions for improvement, please open an i
 >
 > If you like the project feel free to drop a star ✨. Your appreciation means a lot.
 
-<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/JustAnimeCore" tarGET="_blank">JustAnime 
+<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/ProFlexyy" tarGET="_blank">Anizen 
 </a>🫰</p>
